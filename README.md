@@ -13,7 +13,7 @@ ESOM (Enhanced Self-Organizing Maps) is a Python-based tool designed for cluster
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ESOM.git
+    git clone https://github.com/Cesar-Gabriel/ESOM.git
     ```
 2. Navigate to the project directory:
     ```bash
