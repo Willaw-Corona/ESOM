@@ -19,31 +19,10 @@ ESOM (Enhanced Self-Organizing Maps) is a Python-based tool designed for cluster
     ```bash
     cd ESOM
     ```
-3. Install dependencies:
+3. Open the file
     ```bash
-    pip install -r requirements.txt
+    esom.py
     ```
-
-## Usage
-
-1. Prepare your dataset in a CSV format.
-2. Run the ESOM script:
-    ```bash
-    python esom.py --input your_dataset.csv --output output_map.png
-    ```
-3. Open `index.html` in your browser to visualize the results.
-
-### Command-Line Options
-
-- `--input`: Path to the input dataset (CSV format).
-- `--output`: Path to save the generated map image.
-- `--grid-size`: Specify the grid size for the map (default: 10x10).
-- `--learning-rate`: Set the learning rate for training (default: 0.1).
-
-## Visualization
-
-The `index.html` file provides an interactive visualization of the generated map. Open it in any modern web browser to explore the clusters and relationships in your data.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
